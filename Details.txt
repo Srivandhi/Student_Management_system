@@ -1,0 +1,2 @@
+NAME     REGNO     DEPARTMENT   GRADE
+sri    3047   ct   O   
